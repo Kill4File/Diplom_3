@@ -1,2 +1,2 @@
 # Sprint_7
-Repo for YaPracticum's sprint 7
+Repo for YaPracticum's diplom part 3
